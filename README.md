@@ -5,3 +5,5 @@ ome.tv ip grabber webrtc inj
 github.com/moonlightrblx for helping me with the initial design testing it and making it work 
 
 ![brainome](brainome.png)
+
+# couldunt test cause idk where my webcam is
